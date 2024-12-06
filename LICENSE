@@ -2,15 +2,18 @@ PheonixRiseOfTheSapience X11 License
 
 Copyright (c) 2024 PheonixRiseOfTheSapience
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software") and source code, to deal in the Software and source code, with the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software") and source code, to deal in the Software and source code without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software and source code.
 2. Credit must be given to PheonixRiseOfTheSapience for the design pattern used in this Software and source code or License. If not open sourcing your code, you must include a copy of this License.
-3. Users of this Software and source code are not required to open source their projects or use the PheonixRiseOfTheSapience X11 License in their projects if they use this project's design. However, they must retain this License in their project documentation.
-4. If any user patents software or source code, or design patterns derived from this repository, 50% of the patent ownership will be assigned to RiseOfThePheonix (Johnathan Edward Brown). This clause applies regardless of any subsequent changes to the licensing of the derived work.
-5. This License is subject to changes and updates at any time. Please reference the GitHub license file for the most current version: [PheonixRiseOfTheSapience-X11-License](https://github.com/PheonixRiseOfTheSapience/PheonixRiseOfTheSapience-X11-License/blob/main/LICENSE).
+3. Users of this Software and source code are not required to open source their projects or use the PheonixRiseOfTheSapience X11 License in their projects if they use this project's design. However, the following conditions apply:
+    a. If any user patents software or design patterns derived from this repository, 50% of the patent ownership will be assigned to RiseOfThePheonix (Johnathan Edward Brown). This clause does not apply to the source code itself, as source code cannot be patented under current legal understandings.
+    b. Any profits made from the software, source code, or design patterns used from this repository require 50% of the profits to go to the Licensor, RiseOfThePheonix (Johnathan Edward Brown).
+4. This License is a legal agreement. Even if this LICENSE file is removed from the repository, the clauses and conditions stated herein still apply.
+5. This License is a binding legal agreement. The clauses and conditions stated herein shall remain in effect regardless of the presence or absence of this LICENSE file in any distributed copies of the Software or the source code.
+6. This License is subject to changes and updates at any time. Please reference the GitHub license file for the most current version: [PheonixRiseOfTheSapience-X11-License](https://github.com/PheonixRiseOfTheSapience/PheonixRiseOfTheSapience-X11-License/blob/main/LICENSE)
 
-THE SOFTWARE, SOURCE CODE, AND DESIGN PATTERNS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+THE SOFTWARE, SOURCE CODE, AND DESIGN PATTERNS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE, SOURCE CODE, OR DESIGN PATTERNS OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 Contact Information:
 Email: pheonixriseofthe@gmail.com
