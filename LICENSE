@@ -4,19 +4,45 @@ Copyright (c) 2024 PheonixRiseOfTheSapience
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software") and source code, to deal in the Software and source code without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software and source code.
-2. Credit must be given to PheonixRiseOfTheSapience for the design pattern used in this Software and source code or License. If not open sourcing your code, you must include a copy of this License.
-3. Users of this Software and source code are not required to open source their projects or use the PheonixRiseOfTheSapience X11 License in their projects if they use this project's design. However, the following conditions apply:
-    a. If any user patents software or design patterns derived from this repository, 50% of the patent ownership will be assigned to RiseOfThePheonix (Johnathan Edward Brown). This clause does not apply to the source code itself, as source code cannot be patented under current legal understandings.
-    b. Any profits made from the software, source code, or design patterns used from this repository require 50% of the profits to go to the Licensor, RiseOfThePheonix (Johnathan Edward Brown).
-4. This License is a legal agreement. Even if this LICENSE file is removed from the repository, the clauses and conditions stated herein still apply.
-5. This License is a binding legal agreement. The clauses and conditions stated herein shall remain in effect regardless of the presence or absence of this LICENSE file in any distributed copies of the Software or the source code.
-6. This License is subject to changes and updates at any time. Please reference the GitHub license file for the most current version: [PheonixRiseOfTheSapience-X11-License](https://github.com/PheonixRiseOfTheSapience/PheonixRiseOfTheSapience-X11-License/blob/main/LICENSE)
+1. Attribution and Licensing Terms
+   a. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software and source code.
+   b. Attribution must be given to PheonixRiseOfTheSapience in all distributed or published works derived from this Software or its design patterns. This includes, but is not limited to, crediting PheonixRiseOfTheSapience in documentation, user interfaces, and publicly visible materials.
+   c. If not open-sourcing your code, a copy of this License must be included in any distributed binary or source code form.
 
-THE SOFTWARE, SOURCE CODE, AND DESIGN PATTERNS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE, SOURCE CODE, OR DESIGN PATTERNS OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+2. Prohibition on Copyright and Trademark Claims
+   a. Users of the Software, source code, or associated design patterns may not register or assert copyright, trademark, or sole ownership rights over any portion of the Software, source code, or design patterns, whether in original or modified form, without explicit prior written consent from the Licensor.
+
+3. Patent and Profit-Sharing Requirements
+   a. Any attempt to patent software, algorithms, or design patterns derived from or substantially similar to those in this repository requires explicit prior written consent from the Licensor, RiseOfThePheonix (Johnathan Edward Brown).
+   b. All granted permissions to patent derived works remain subject to the following conditions:
+      i. 50% of any patent ownership shall be assigned to the Licensor.
+      ii. 50% of profits generated from the patent must be shared with the Licensor.
+   c. All profits derived from the Software, source code, or associated design patterns, including indirect earnings, require 50% of the profits to be shared with the Licensor.
+   d. Users are required to disclose and report all earnings derived from the Software, its source code, or design patterns upon request.
+
+4. Prohibition on Sub-Licensing
+   a. Users of the Software, source code, or associated design patterns may not sublicense, re-license, or redistribute the materials under alternative licensing terms without explicit prior written consent from the Licensor.
+
+5. Audit and Enforcement
+   a. The Licensor reserves the right to request documentation or other proof of compliance with the terms of this License from any individual or organization profiting from the Software, source code, or associated design patterns.
+   b. Non-compliance may result in legal action or revocation of License rights.
+
+6. Binding Agreement and Revocation
+   a. This License constitutes a legally binding agreement. Any violation of its terms may result in immediate revocation of all rights granted under this License, including the right to use, distribute, or modify the Software and associated materials.
+   b. Removal, alteration, or obfuscation of this License or any of its clauses from distributed copies of the Software, source code, or associated materials is strictly prohibited and constitutes a violation of the License.
+
+7. Warranty Disclaimer and Liability Limitation
+   THE SOFTWARE, SOURCE CODE, AND DESIGN PATTERNS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE, SOURCE CODE, OR DESIGN PATTERNS OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+8. Jurisdiction and Governing Law
+   a. This License shall be governed by and construed in accordance with the laws of [USA/North carolina].
+   b. Any disputes arising under or in connection with this License shall be subject to the exclusive jurisdiction of the courts of [USA/North Carolina].
+
+9. Updates and Modifications
+   a. This License is subject to changes and updates at any time. Please reference the GitHub license file for the most current version: https://github.com/PheonixRiseOfTheSapience/PheonixRiseOfTheSapience-X11-License/blob/main/LICENSE
 
 Contact Information:
 Email: pheonixriseofthe@gmail.com
 
-Updated as of: December 6, 2024
+Updated as of: December 6, 2024  
 Effective Date: October 28, 2024
