@@ -74,7 +74,7 @@ Protection of File Directory and Subdirectories
 10.6. Websites, services, terms of use, and privacy policies must not be used to circumvent, reverse engineer, or otherwise violate this License.
 
 Unauthorized Copyrighting, Patenting, or Trademarking
-11.1. No person or entity is allowed to copyright, patent, or trademark this License or any derivative works thereof without explicit written consent from [Your Name or Entity].
+11.1. No person or entity is allowed to copyright, patent, or trademark this License or any derivative works thereof regardless of written consent from [Your Name or Entity].
 11.2. Any unauthorized attempts to claim ownership through copyright, patents, or trademarks will render this License null and void for the offending party.
 
 Profit Sharing
