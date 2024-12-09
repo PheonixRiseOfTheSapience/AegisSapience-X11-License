@@ -1,4 +1,4 @@
-PheonixRiseOfTheSapience X11 License
+# PheonixRiseOfTheSapience X11 License
 
 Copyright (c) 2024 PheonixRiseOfTheSapience (Johnathan Edward Brown)
 
