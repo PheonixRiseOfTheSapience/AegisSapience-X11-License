@@ -2,8 +2,9 @@
 This is a custom made License Made By PheonixRiseOfTheSapience Which includes ability to freely use as anyone wishes. While requiring proper credits In a simple SUBLICENSE manner.
 
 # How to Use and Follow the Clause 2. For Giving Credits.
-1. Include this LICENSE file here in this repo as a SUBLICENSE file in your repository or works source code!
-2. Plans to update for general public usage of the license itself to make alternative copies to protect oneself legally
+1. Follow the tutorial below
+2. Obviously simple as forking this github repository and using the alternative one and replacing the LICENSE file with it contents or just copy the code below and use it
+3. It is recommended to fork this and keep a public version of your own license on your own repository.
 
 # License File Alternative Template MD format
 ```md
