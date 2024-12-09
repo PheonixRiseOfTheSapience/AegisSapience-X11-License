@@ -51,7 +51,7 @@ THE LICENSE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIE
 10.6. Websites, services, terms of use, and privacy policies must not be used to circumvent, reverse engineer, or otherwise violate this License.  
 
 11. Unauthorized Copyrighting, Patenting, or Trademarking  
-11.1. No person or entity is allowed to copyright, patent, or trademark this License or any derivative works thereof without explicit written consent from PheonixRiseOfTheSapience (Johnathan Edward Brown).  
+11.1. No person or entity is allowed to copyright, patent, or trademark this License or any derivative works thereof regardless of explicit written consent from PheonixRiseOfTheSapience (Johnathan Edward Brown).  
 11.2. Any unauthorized attempts to claim ownership through copyright, patents, or trademarks will render this License null and void for the offending party.
 
 12. Profit Sharing  
