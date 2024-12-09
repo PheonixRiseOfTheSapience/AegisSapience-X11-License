@@ -5,14 +5,14 @@ Copyright (c) 2024 PheonixRiseOfTheSapience (Johnathan Edward Brown)
 Permission is hereby granted, free of charge, to any person obtaining a copy of this license and associated documentation files (the "License") to use, modify, and distribute this License or derivatives thereof, subject to the following conditions:
 
 ### Definitions
-**Licensed Directory**: Refers to the folder or directory in which this License is located, including all files, folders, and subdirectories contained within it.
-**Directory**: A storage structure that may contain files and/or additional directories (subdirectories).
-**Subdirectory**: A directory located within another directory. Subdirectories may contain additional files, folders, and subdirectories.
-**Source Code**: Refers to the human-readable instructions and development artifacts used to create software.
-**Software**: Refers to the executable programs and applications derived from source code.
-**Services**: Refers to the functionalities provided by software and associated documentation, including but not limited to web services, APIs, and cloud-based solutions.
-**Materials**: Refers to any content, including but not limited to source code, binaries, documentation, and related assets.
-**Documentation**: Refers to the written or digital materials that explain and provide instructions for the use of the software and services.
+- **Licensed Directory**: Refers to the folder or directory in which this License is located, including all files, folders, and subdirectories contained within it.
+- **Directory**: A storage structure that may contain files and/or additional directories (subdirectories).
+- **Subdirectory**: A directory located within another directory. Subdirectories may contain additional files, folders, and subdirectories.
+- **Source Code**: Refers to the human-readable instructions and development artifacts used to create software.
+- **Software**: Refers to the executable programs and applications derived from source code.
+- **Services**: Refers to the functionalities provided by software and associated documentation, including but not limited to web services, APIs, and cloud-based solutions.
+- **Materials**: Refers to any content, including but not limited to source code, binaries, documentation, and related assets.
+- **Documentation**: Refers to the written or digital materials that explain and provide instructions for the use of the software and services.
 
 ### 1. Attribution and Licensing Terms
 1.1. The above copyright notice, identifying **PheonixRiseOfTheSapience (Johnathan Edward Brown)** as the copyright holder, and this permission notice shall be included in all copies or substantial portions of the Materials.
