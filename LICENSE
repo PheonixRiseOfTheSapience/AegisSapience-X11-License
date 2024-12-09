@@ -2,37 +2,44 @@ PheonixRiseOfTheSapience X11 License
 
 Copyright (c) 2024 PheonixRiseOfTheSapience (Johnathan Edward Brown)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), source code, design patterns, instructional materials, text files, tutorials, or other related files (collectively referred to as the "Materials"), to deal in the Materials without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Materials, and to permit persons to whom the Materials are furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this license and associated documentation files (the "License") to use, modify, and distribute this License or derivative licenses for the purpose of protecting their own code or materials (collectively referred to as "Alternative Licenses"), subject to the following conditions:
 
-1. Attribution and Licensing Terms
-1.1. The above copyright notice, identifying PheonixRiseOfTheSapience (Johnathan Edward Brown) as the copyright holder, and this permission notice shall be included in all copies or substantial portions of the Materials.
-1.2. Clear and prominent attribution must be given to PheonixRiseOfTheSapience (Johnathan Edward Brown) in all distributed or published works derived from the Materials. This includes, but is not limited to, visible credit in documentation, user interfaces, instructional materials, and publicly visible outputs.
-1.3. This License must be included in all derivative works or redistributed versions of the Materials, ensuring the terms remain binding.
+1. Attribution and Licensing Terms  
+1.1. The above copyright notice, identifying PheonixRiseOfTheSapience (Johnathan Edward Brown) as the original creator of this License, must be retained in all copies or substantial portions of this License or any Alternative Licenses derived from it.  
+1.2. Attribution to PheonixRiseOfTheSapience (Johnathan Edward Brown) must be included in the text of any Alternative Licenses, explicitly stating that the Alternative License is based on the PheonixRiseOfTheSapience X11 License.  
+1.3. Alternative Licenses must not include terms or restrictions that conflict with this License or diminish its permissiveness.  
 
-2. Creation of Alternative Licenses
-2.1. Users are permitted to create and distribute alternative licenses based on this License, provided the alternative license:
-   - 2.1.1. Retains a prominent attribution to PheonixRiseOfTheSapience (Johnathan Edward Brown) as the original creator of the template and framework.
-   - 2.1.2. Explicitly prohibits any claims of ownership over the original text or template of this License by the alternative license creator.
-   - 2.1.3. Clearly states that the alternative license is derived from the PheonixRiseOfTheSapience X11 License.
-2.2. The creation and distribution of an alternative license must not impose additional terms that contradict or diminish the spirit of free and fair use outlined in this License.
+2. Ownership of Alternative Licenses  
+2.1. Alternative Licenses created from this License must explicitly state the ownership of the alternative version, identifying the alternative creator(s) or entity/entities as the owner(s).  
+2.2. The PheonixRiseOfTheSapience (Johnathan Edward Brown) retains no ownership, control, or responsibility over any Alternative Licenses.  
+2.3. Alternative Licenses must include a clear disclaimer that PheonixRiseOfTheSapience (Johnathan Edward Brown) is not the owner or legal representative of the Alternative License.  
 
-3. Prohibition on Patents, Trademarks, and Restrictive Derivatives
-3.1. Alternative licenses or modifications of this License may not be patented, trademarked, or otherwise legally restricted in a manner that prevents public access, free use, or further modification.
-3.2. Any unauthorized attempt to claim exclusive rights (e.g., patents, trademarks) over an alternative license or modifications derived from this License will automatically result in PheonixRiseOfTheSapience (Johnathan Edward Brown) being granted full ownership of the claim.
-3.3. Derivatives of this License must remain available under terms that are at least as permissive as the original License.
+3. Updating and Attribution for Alternative Licenses  
+3.1. The alternative creator(s) of the Alternative License must ensure that all relevant contact and attribution information is accurate and properly updated in the License text.  
+3.2. Any failure to include accurate attribution, ownership, and contact details may invalidate the legality of the Alternative License.  
+3.3. Attribution to the original PheonixRiseOfTheSapience X11 License must be preserved, but ownership credit for the alternative version must not imply ownership or endorsement by PheonixRiseOfTheSapience (Johnathan Edward Brown).  
 
-4. Binding Agreement, Duration, and Automatic Ownership Rights
-4.1. This License constitutes a legally binding agreement between PheonixRiseOfTheSapience (Johnathan Edward Brown) and the Licensee.
-4.2. This License remains in effect for the lifetime of PheonixRiseOfTheSapience (Johnathan Edward Brown).
-4.3. Upon the passing of PheonixRiseOfTheSapience (Johnathan Edward Brown), all rights, responsibilities, and obligations under this License automatically transfer to their legally recognized next of kin or designated heir(s).
-4.4. The Licensor, or their next of kin/heir(s), retains 100% ownership rights in the event of any attempt to violate the terms of this License by filing patents, trademarks, or copyrights for the Materials, alternative licenses, or derivatives.
+4. Prohibition on Misrepresentation  
+4.1. Alternative Licenses must not misrepresent their relationship to the PheonixRiseOfTheSapience X11 License or its author.  
+4.2. Alternative Licenses must not create false impressions of endorsement, shared ownership, or legal connection with PheonixRiseOfTheSapience (Johnathan Edward Brown).  
 
-5. Jurisdiction and Governing Law
-5.1. This License shall be governed by and construed under the laws of [USA/State Of North Carolina].
-5.2. Disputes shall be subject to the exclusive jurisdiction of the courts of [USA/State Of North Carolina].
+5. Prohibition on Exclusive Claims for Alternative Licenses  
+5.1. No individual or organization may patent, trademark, or otherwise restrict the use of this License or any Alternative Licenses derived from it.  
+5.2. Alternative Licenses must not impose exclusive claims over concepts, terms, or conditions present in this License.  
 
-Contact Information:
-Email: pheonixriseofthe@gmail.com
+6. Binding Nature and Protections Against Misuse  
+6.1. This License and any Alternative Licenses are subject to the protections outlined in Sections 4, 5, and 6 regarding circumvention, reverse engineering, or misuse.  
+6.2. Any violation of these protections invalidates rights under the original PheonixRiseOfTheSapience X11 License and any Alternative Licenses derived from it.  
 
-Effective Date: October 28, 2024
+7. Warranty Disclaimer and Liability Limitation  
+THE LICENSE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM OR IN CONNECTION WITH THE USE OR OTHER DEALINGS IN THIS LICENSE OR ALTERNATIVE LICENSES.  
+
+8. Jurisdiction and Governing Law  
+8.1. This License shall be governed by and construed under the laws of [USA/State Of North Carolina].  
+8.2. Disputes shall be subject to the exclusive jurisdiction of the courts of [USA/State Of North Carolina].  
+
+Contact Information:  
+Email: pheonixriseofthe@gmail.com  
+
+Effective Date: October 28, 2024  
 Updated as of: December 9, 2024
