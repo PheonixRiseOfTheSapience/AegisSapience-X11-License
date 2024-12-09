@@ -27,34 +27,39 @@ Copyright (c) 2024 [Your Name or Entity]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this license and associated documentation files (the "License") to use, modify, and distribute this License or derivatives thereof, subject to the following conditions:
 
-Attribution and Licensing Terms
-1.1. The above copyright notice, identifying [Your Name or Entity] as the original creator of this License, must be retained in all copies or substantial portions of this License.
-1.2. Attribution to [Your Name or Entity] must be included in the text of any Alternative Licenses, explicitly stating that the Alternative License is based on the [Your Name or Entity] License.
-1.3. Alternative Licenses must not include terms or restrictions that conflict with this License or diminish its permissiveness.
+Definitions
+Licensed Directory: Refers to the folder or directory in which this License is located, including all files, folders, and subdirectories contained within it.
+Directory: A storage structure that may contain files and/or additional directories (subdirectories).
+Subdirectory: A directory located within another directory. Subdirectories may contain additional files, folders, and subdirectories.
 
-Ownership of Alternative Licenses
+1. Attribution and Licensing Terms
+1.1. The above copyright notice, identifying [Your Name or Entity] as the original creator of this License, must be retained in all copies or substantial portions of the Materials.
+1.2. Clear and prominent attribution must be given to [Your Name or Entity] in all distributed or published works derived from the Materials. This includes, but is not limited to, visible credit in documentation, user interfaces, instructional materials, and publicly visible outputs.
+1.3. This License must be included in all derivative works or redistributed versions of the Materials, ensuring the terms remain binding.
+
+2. Ownership of Alternative Licenses
 2.1. Alternative Licenses created from this License must explicitly state the ownership of the alternative version, identifying the alternative creator(s) or entity/entities as the owner(s).
 2.2. [Your Name or Entity] retains no ownership, control, or responsibility over any Alternative Licenses.
 2.3. Alternative Licenses must include a clear disclaimer that [Your Name or Entity] is not the owner or legal representative of the Alternative License.
 
-Updating and Attribution for Alternative Licenses
+3. Updating and Attribution for Alternative Licenses
 3.1. The alternative creator(s) of the Alternative License must ensure that all relevant contact and attribution information is accurate and properly updated in the License text.
 3.2. Any failure to include accurate attribution, ownership, and contact details may invalidate the legality of the Alternative License.
 3.3. Attribution to the original [Your Name or Entity] License must be preserved, but ownership credit for the alternative version must not imply ownership or endorsement by [Your Name or Entity].
 
-Prohibition on Misrepresentation
+4. Prohibition on Misrepresentation
 4.1. Alternative Licenses must not misrepresent their relationship to the [Your Name or Entity] License or its author.
 4.2. Alternative Licenses must not create false impressions of endorsement, shared ownership, or legal connection with [Your Name or Entity].
 
-Prohibition on Exclusive Claims for Alternative Licenses
+5. Prohibition on Exclusive Claims for Alternative Licenses
 5.1. No individual or organization may patent, trademark, or otherwise restrict the use of this License or any Alternative Licenses derived from it.
 5.2. Alternative Licenses must not impose exclusive claims over concepts, terms, or conditions present in this License.
 
-Binding Nature and Protections Against Misuse
+6. Binding Nature and Protections Against Misuse
 6.1. This License and any Alternative Licenses are subject to the protections outlined in Sections 4, 5, and 6 regarding circumvention, reverse engineering, or misuse.
 6.2. Any violation of these protections invalidates rights under the original [Your Name or Entity] License and any Alternative Licenses derived from it.
 
-Warranty Disclaimer and Liability Limitation
+7. Warranty Disclaimer and Liability Limitation
 THE LICENSE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
 
 Jurisdiction and Governing Law
@@ -74,7 +79,7 @@ Protection of File Directory and Subdirectories
 10.6. Websites, services, terms of use, and privacy policies must not be used to circumvent, reverse engineer, or otherwise violate this License.
 
 Unauthorized Copyrighting, Patenting, or Trademarking
-11.1. No person or entity is allowed to copyright, patent, or trademark this License or any derivative works thereof regardless of written consent from [Your Name or Entity].
+11.1. No person or entity is allowed to copyright, patent, or trademark this License or any derivative works thereof without explicit written consent from [Your Name or Entity].
 11.2. Any unauthorized attempts to claim ownership through copyright, patents, or trademarks will render this License null and void for the offending party.
 
 Profit Sharing
@@ -88,9 +93,7 @@ Effective Date: [Effective Date]
 Updated as of: [Update Date]
 ```
 ## Step 3: Review and Finalize
-
 Carefully review the alternative license text and ensure all information is accurate and complies with the original PheonixRiseOfTheSapience X11 License terms. Once finalized, you can use this alternative license in your projects.
 
 ## Step 4: Publish the Alternative License
-
 Include the alternative license text in your project's repository, ensuring proper attribution and compliance with the original license terms.
