@@ -21,20 +21,25 @@ Before creating an alternative license, make sure you thoroughly understand the 
 Below is a template for an alternative license based on the PheonixRiseOfTheSapience X11 License. Replace placeholders with your own information where necessary.
 
 ```txt
-Alternative License Based on the PheonixRiseOfTheSapience X11 License
+[Alternative License Based on the PheonixRiseOfTheSapience X11 License]
 
-Copyright (c) 2024 [Your Name or Entity]
+Copyright (c) [Year] [Your Name or Entity]
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this license and associated documentation files (the "License") to use, modify, and distribute this License or derivatives thereof, subject to the following conditions:
+Permission is granted, free of charge, to any person obtaining a copy of this license and associated documentation files (the "License") to use, modify, and distribute this License or derivatives thereof, subject to the following conditions:
 
 Definitions
-Licensed Directory: Refers to the folder or directory in which this License is located, including all files, folders, and subdirectories contained within it.
+Licensed Directory: The folder or directory in which this License is located, including all files, folders, and subdirectories within it.
 Directory: A storage structure that may contain files and/or additional directories (subdirectories).
-Subdirectory: A directory located within another directory. Subdirectories may contain additional files, folders, and subdirectories.
+Subdirectory: A directory within another directory. Subdirectories may contain additional files, folders, and subdirectories.
+Source Code: The human-readable instructions and development artifacts used to create software.
+Software: The executable programs and applications derived from source code.
+Services: The functionalities provided by software and associated documentation, including but not limited to web services, APIs, and cloud-based solutions.
+Materials: Any content, including but not limited to source code, binaries, documentation, and related assets.
+Documentation: The written or digital materials that explain and provide instructions for the use of the software and services.
 
 1. Attribution and Licensing Terms
-1.1. The above copyright notice, identifying [Your Name or Entity] as the original creator of this License, must be retained in all copies or substantial portions of the Materials.
-1.2. Clear and prominent attribution must be given to [Your Name or Entity] in all distributed or published works derived from the Materials. This includes, but is not limited to, visible credit in documentation, user interfaces, instructional materials, and publicly visible outputs.
+1.1. The copyright notice, identifying [Your Name or Entity] as the copyright holder, and this permission notice must be included in all copies or substantial portions of the Materials.
+1.2. Clear and prominent attribution must be given to [Your Name or Entity] in all distributed or published works derived from the Materials, including visible credit in documentation, user interfaces, instructional materials, and publicly visible outputs.
 1.3. This License must be included in all derivative works or redistributed versions of the Materials, ensuring the terms remain binding.
 
 2. Ownership of Alternative Licenses
@@ -45,10 +50,10 @@ Subdirectory: A directory located within another directory. Subdirectories may c
 3. Updating and Attribution for Alternative Licenses
 3.1. The alternative creator(s) of the Alternative License must ensure that all relevant contact and attribution information is accurate and properly updated in the License text.
 3.2. Any failure to include accurate attribution, ownership, and contact details may invalidate the legality of the Alternative License.
-3.3. Attribution to the original [Your Name or Entity] License must be preserved, but ownership credit for the alternative version must not imply ownership or endorsement by [Your Name or Entity].
+3.3. Attribution to the original PheonixRiseOfTheSapience X11 License must be preserved, but ownership credit for the alternative version must not imply ownership or endorsement by [Your Name or Entity].
 
 4. Prohibition on Misrepresentation
-4.1. Alternative Licenses must not misrepresent their relationship to the [Your Name or Entity] License or its author.
+4.1. Alternative Licenses must not misrepresent their relationship to the PheonixRiseOfTheSapience X11 License or its author.
 4.2. Alternative Licenses must not create false impressions of endorsement, shared ownership, or legal connection with [Your Name or Entity].
 
 5. Prohibition on Exclusive Claims for Alternative Licenses
@@ -57,20 +62,20 @@ Subdirectory: A directory located within another directory. Subdirectories may c
 
 6. Binding Nature and Protections Against Misuse
 6.1. This License and any Alternative Licenses are subject to the protections outlined in Sections 4, 5, and 6 regarding circumvention, reverse engineering, or misuse.
-6.2. Any violation of these protections invalidates rights under the original [Your Name or Entity] License and any Alternative Licenses derived from it.
+6.2. Any violation of these protections invalidates rights under the original PheonixRiseOfTheSapience X11 License and any Alternative Licenses derived from it.
 
 7. Warranty Disclaimer and Liability Limitation
 THE LICENSE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
 
-Jurisdiction and Governing Law
+8. Jurisdiction and Governing Law
 8.1. This License shall be governed by and construed under the laws of [Your Jurisdiction].
 8.2. Disputes shall be subject to the exclusive jurisdiction of the courts of [Your Jurisdiction].
 
-Repository Reference
+9. Repository Reference
 9.1. This License, and any changes to it, can be found at the following repository: [Your Repository URL].
 9.2. All modifications and updates to this License will be documented and published in the repository mentioned above.
 
-Protection of File Directory and Subdirectories
+10. Protection of File Directory, Subdirectories, Source Code, Software, Services, Materials, and Documentation
 10.1. This License applies to the entire file directory and its subdirectories, including all files and folders within the repository.
 10.2. This License covers both private and public repositories, ensuring that the terms apply regardless of the repository's visibility.
 10.3. The term "file directory" includes any file system on any computer machine.
@@ -78,13 +83,23 @@ Protection of File Directory and Subdirectories
 10.5. Reverse engineering or circumvention of this License via any terms of use, privacy policy, license, websites, or services is strictly prohibited.
 10.6. Websites, services, terms of use, and privacy policies must not be used to circumvent, reverse engineer, or otherwise violate this License.
 
-Unauthorized Copyrighting, Patenting, or Trademarking
+11. Unauthorized Copyrighting, Patenting, or Trademarking
 11.1. No person or entity is allowed to copyright, patent, or trademark this License or any derivative works thereof without explicit written consent from [Your Name or Entity].
 11.2. Any unauthorized attempts to claim ownership through copyright, patents, or trademarks will render this License null and void for the offending party.
 
-Profit Sharing
+12. Profit Sharing
 12.1. Profits derived from commercial and non-commercial uses of this License or its derivatives must be shared equally (50%) with the original creator, [Your Name or Entity].
 12.2. Non-profit organizations using this License or its derivatives must allocate 5% of any profits made to [Your Name or Entity].
+12.3. Additionally, 1% of all profits derived from the use of this License, its derivatives, or associated services must be allocated to GitHub for the usage of Copilot.
+
+13. Audit and Enforcement
+13.1. [Your Name or Entity] reserves the right to audit repository postings and commercial activities to verify compliance with this License. Non-compliance may result in immediate revocation of License rights and/or legal action.
+13.2. Repository maintainers and users found to be in violation of this License will be held liable under intellectual property laws.
+
+14. Binding Agreement and Automatic Ownership Rights
+14.1. This License constitutes a legally binding agreement between [Your Name or Entity] and the Licensee.
+14.2. Any attempt to file patents, trademarks, or copyrights for the Materials or derivatives without complying with this License will automatically result in the Licensor being granted 100% ownership of the rights.
+14.3. Removal, alteration, or obfuscation of this License from the Licensed Directory constitutes a direct violation of the License.
 
 Contact Information:
 Email: [Your Email]
