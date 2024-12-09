@@ -1,6 +1,18 @@
 # PheonixRiseOfTheSapience-X11-License
 This is a custom made License Made By PheonixRiseOfTheSapience Which includes ability to freely use as anyone wishes. While requiring proper credits In a simple SUBLICENSE manner.
 
+## Basic Features and Protections
+
+- **Free Usage**: Allows anyone to use, modify, and distribute the licensed materials with proper attribution.
+- **Attribution**: Requires clear and prominent credit to PheonixRiseOfTheSapience (Johnathan Edward Brown) in all distributed or published works derived from the materials.
+- **Sublicensing**: Permits the creation of alternative licenses based on this license with specific terms and conditions.
+- **Ownership**: Retains no ownership, control, or responsibility over any alternative licenses created from this license.
+- **Misrepresentation Prohibition**: Alternative licenses must not misrepresent their relationship to the PheonixRiseOfTheSapience X11 License or its author.
+- **Exclusive Claims Prohibition**: No patents, trademarks, or other restrictions can be imposed on this license or any alternative licenses derived from it.
+- **Protections Against Misuse**: Prohibits circumvention, reverse engineering, or misuse of the license terms.
+- **Profit Sharing**: Shares profits derived from the use of this license or its derivatives equally with the original creator and allocates a portion to GitHub for the usage of Copilot.
+
+
 # How to Use and Follow the Clause 2. For Giving Credits.
 1. Follow the tutorial below
 2. Obviously simple as forking this github repository and using the alternative one and replacing the LICENSE file with it contents or just copy the code below and use it
