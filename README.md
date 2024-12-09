@@ -5,6 +5,8 @@ This is a custom made License Made By PheonixRiseOfTheSapience Which includes ab
 1. Follow the tutorial below
 2. Obviously simple as forking this github repository and using the alternative one and replacing the LICENSE file with it contents or just copy the code below and use it
 3. It is recommended to fork this and keep a public version of your own license on your own repository.
+4. Back it up to a flashdrive or a few of em..
+5. Enjoy Life :D
 
 # License File Alternative Template MD format
 ```md
