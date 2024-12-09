@@ -64,8 +64,8 @@ Updated as of: [Last Updated Date]
 
 --- 
 ### Notes for Use:
-1. Replace placeholders like `[Your Name or Entity Name]`, `[Your License Name Here]`, and `[Your Jurisdiction]` with your details.
-2. Add a link to the original PheonixRiseOfTheSapience X11 License if publicly available.  
+1. Replace placeholders like [Alternative Creator/Entity], [Alternative License Name], and [Applicable Jurisdiction] with your details.
+2. Add a link to the original PheonixRiseOfTheSapience X11 License if publicly available.
 3. Adjust the text as necessary to fit your specific use case while preserving proper attribution and legal disclaimers.
 
 This template provides a framework for creating alternative licenses while ensuring compliance with the original terms and proper acknowledgment. Let me know if you need assistance tailoring it further!
