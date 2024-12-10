@@ -53,13 +53,14 @@ THE LICENSE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIE
 9.1. This License, and any changes to it, can be found at the following repository: PheonixRiseOfTheSapience/PheonixRiseOfTheSapience-X11-License.
 9.2. All modifications and updates to this License will be documented and published in the repository mentioned above.
 
-### 10. Protection of File Directory, Subdirectories, Source Code, Software, Services, Materials, and Documentation
+### 10. Protection of File Directory, Subdirectories, Source Code, Software, Services, Materials, Documentation, and Design Patterns
 10.1. This License applies to the entire file directory and its subdirectories, including all files and folders within the repository.
 10.2. This License covers both private and public repositories, ensuring that the terms apply regardless of the repository's visibility.
 10.3. The term "file directory" includes any file system on any computer machine.
 10.4. Any attempt to remove, update, or change this License is a violation of the License itself.
 10.5. Reverse engineering or circumvention of this License via any terms of use, privacy policy, license, websites, or services is strictly prohibited.
 10.6. Websites, services, terms of use, and privacy policies must not be used to circumvent, reverse engineer, or otherwise violate this License.
+10.7. Design patterns included in the materials are protected under this License and must not be used to claim exclusive rights.
 
 ### 11. Unauthorized Copyrighting, Patenting, or Trademarking
 11.1. No person or entity is allowed to copyright, patent, or trademark this License or any derivative works thereof without explicit written consent from PheonixRiseOfTheSapience (Johnathan Edward Brown).
