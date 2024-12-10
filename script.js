@@ -108,7 +108,7 @@ document.addEventListener("DOMContentLoaded", function () {
             12.3. Additionally, 1% of all profits derived from the use of this License, its derivatives, or associated services must be allocated to GitHub for the usage of Copilot.
             12.4. Additionally, section 12.3 can be opted out by agreeing here: ${copilotOptOut === 'agree' ? 'Opted Out' : 'Not Opted Out'}
             12.5. If section 12.4 is agreed to, then section 12.3 shall be null and void for this License.
-            12.6. No individual or organization may restrict or prevent the availability of this License for the purpose of profit sharing. Doing so will be considered a violation of this agreement.
+            12.6. No individual or organization may restrict or prevent the availability of this License for the purpose of profit sharing. Doing so will be considered a violation of this agreement/License in this case would be the License.
 
             13. Audit and Enforcement
             13.1. ${altName} (${ownerName}) reserves the right to audit repository postings and commercial activities to verify compliance with this License. Non-compliance may result in immediate revocation of License rights and/or legal action.
