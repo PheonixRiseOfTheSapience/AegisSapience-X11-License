@@ -19,7 +19,7 @@ This is a custom made License Made By PheonixRiseOfTheSapience Which includes ab
 4. Back it up to a flash drive or a few of them.
 5. Enjoy Life :D
 
-## Creating an Alternative License Based on the PheonixRiseOfTheSapience X11 License
+## Creating an Alternative License Based on the AegisSapience X11 License
 
 This tutorial will guide you through creating an alternative license based on the PheonixRiseOfTheSapience X11 License. Follow the steps to ensure proper attribution and compliance with the original license terms.
 
