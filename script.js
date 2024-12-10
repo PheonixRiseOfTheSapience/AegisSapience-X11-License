@@ -5,22 +5,10 @@ function showTab(tabId) {
         document.getElementById(tabId).classList.add('active');
     }
 
-    document.addEventListener("DOMContentLoaded", function () {
-        // Fetch and display LICENSE content
-        fetch('./LICENSE')
-            .then(response => response.text())
-            .then(text => {
-                document.getElementById('licenseContent').textContent = text;
-            })
-            .catch(error => {
-                document.getElementById('licenseContent').textContent = 'Failed to load license content.';
-                console.error('Error fetching LICENSE.txt:', error);
-            });
-
         // Update license dynamically on form submission
         document.getElementById('licenseForm').addEventListener('submit', function (event) {
             event.preventDefault();
-            const altName = document.getElementById('altName').value;
+            const altName = document.getElementById('altName').value+" License";
             const ownerName = document.getElementById('authorName').value;
             const githubName = document.getElementById('githubName').value;
             const contactEmail = document.getElementById('contactEmail').value;
