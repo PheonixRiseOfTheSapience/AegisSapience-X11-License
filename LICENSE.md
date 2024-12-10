@@ -14,6 +14,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 - **Materials**: Refers to any content, including but not limited to source code, binaries, documentation, and related assets.
 - **Documentation**: Refers to the written or digital materials that explain and provide instructions for the use of the software and services.
 - **Design Patterns**: Refers to reusable solutions to common problems in software design, including but not limited to Singleton, Factory Method, Observer, and Strategy patterns along with Design Patterns in general as a whole collective of types of categories defined as a Design Pattern or considered by legal english definition of a "Design Pattern".
+- **File**: Refers to any digital data, including but not limited to text, ASCII characters, numbers, binary data, images, videos, and any other form of digital content stored in any format within a computer operating system. This includes the entire contents of said file and any metadata, attributes, and properties associated with it.
 
 ### 1. Attribution and Licensing Terms
 1.1. The above copyright notice, identifying **PheonixRiseOfTheSapience (Johnathan Edward Brown)** as the copyright holder, and this permission notice shall be included in all copies or substantial portions of the Materials.
