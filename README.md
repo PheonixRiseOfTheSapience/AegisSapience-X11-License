@@ -47,7 +47,8 @@ Software: The executable programs and applications derived from source code.
 Services: The functionalities provided by software and associated documentation, including but not limited to web services, APIs, and cloud-based solutions.
 Materials: Any content, including but not limited to source code, binaries, documentation, and related assets.
 Documentation: The written or digital materials that explain and provide instructions for the use of the software and services.
-Design Patterns: Refers to reusable solutions to common problems in software design, including but not limited to Singleton, Factory Method, Observer, and Strategy patterns along with Design Patterns in general as a whole collective.
+Design Patterns: Refers to reusable solutions to common problems in software design, including but not limited to Singleton, Factory Method, Observer, and Strategy patterns along with Design Patterns in general as a whole collective of types of categories defined as a Design Pattern or considered by legal english definition of a "Design Pattern".
+File: Refers to any digital data, including but not limited to text, ASCII characters, numbers, binary data, images, videos, and any other form of digital content stored in any format within a computer operating system. This includes the entire contents of said file and any metadata, attributes, and properties associated with it.
 
 1. Attribution and Licensing Terms
 1.1. The copyright notice, identifying [Your Name or Entity] as the copyright holder, and this permission notice must be included in all copies or substantial portions of the Materials.
