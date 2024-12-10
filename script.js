@@ -6,6 +6,16 @@ function showTab(tabId) {
 }
 
 document.addEventListener("DOMContentLoaded", function () {
+    fetch('./LICENSE')
+        .then(response => response.text())
+        .then(text => {
+            document.getElementById('licenseContent').textContent = text;
+        })
+        .catch(error => {
+            document.getElementById('licenseContent').textContent = 'Failed to load license content.';
+            console.error('Error fetching LICENSE:', error);
+    });
+    
     // Update license dynamically on form submission
     document.getElementById('licenseForm').addEventListener('submit', function (event) {
         event.preventDefault();
