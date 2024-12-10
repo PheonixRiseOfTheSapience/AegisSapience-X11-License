@@ -96,6 +96,8 @@ THE LICENSE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIE
 10.5. Reverse engineering or circumvention of this License via any terms of use, privacy policy, license, websites, or services is strictly prohibited.
 10.6. Websites, services, terms of use, and privacy policies must not be used to circumvent, reverse engineer, or otherwise violate this License.
 10.7. Design patterns included in the materials are protected under this License and must not be used to claim exclusive rights.
+10.8. Modifying file contents in a way that changes its checksum, including but not limited to adding null characters, will be considered an attempt to circumvent the License and is strictly prohibited.
+10.9. The use of checksums to verify the contents of a file is not recognized as valid under this License due to the potential for circumvention by modifying file contents with a simple injected null value to change checksums.
 
 11. Unauthorized Copyrighting, Patenting, or Trademarking
 11.1. No person or entity is allowed to copyright, patent, or trademark this License or any derivative works thereof without explicit written consent from [Your Name or Entity].
@@ -105,7 +107,19 @@ THE LICENSE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIE
 12.1. Profits derived from commercial and non-commercial uses of this License or its derivatives must be shared equally (50%) with the original creator, [Your Name or Entity].
 12.2. Non-profit organizations using this License or its derivatives must allocate 5% of any profits made to [Your Name or Entity].
 12.3. Additionally, 1% of all profits derived from the use of this License, its derivatives, or associated services must be allocated to GitHub for the usage of Copilot.
-12.4. Additionally Line 12.3 can be opted out by agreeing here: (Agree{Yes}[true] / Disagree{No}[false])
+12.4. Additionally, section 12.3 can be opted out by agreeing here: Agree
+12.5. If section 12.4 is agreed to, then section 12.3 shall be null and void for this License.
+12.6. No individual or organization may restrict or prevent the availability of this License for the purpose of profit sharing. Doing so will be considered a violation of this agreement.
+
+13. Audit and Enforcement
+13.1. [Your Name or Entity] reserves the right to audit repository postings and commercial activities to verify compliance with this License. Non-compliance may result in immediate revocation of License rights and/or legal action.
+13.2. Repository maintainers and users found to be in violation of this License will be held liable under intellectual property laws.
+
+14. Binding Agreement and Automatic Ownership Rights
+14.1. This License constitutes a legally binding agreement between [Your Name or Entity] and the Licensee.
+14.2. Any attempt to file patents, trademarks, or copyrights for the Materials or derivatives without complying with this License will automatically result in the Licensor being granted 100% ownership of the rights.
+14.3. Removal, alteration, or obfuscation of this License from the Licensed Directory constitutes a direct violation of the License.
+
 
 Contact Information:
 Email: [Your Email]
