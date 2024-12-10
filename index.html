@@ -86,7 +86,7 @@
         }
 
         document.addEventListener("DOMContentLoaded", function() {
-            fetch('LICENSE.txt')
+            fetch('LICENSE')
                 .then(response => response.text())
                 .then(text => {
                     document.getElementById('licenseContent').textContent = text;
