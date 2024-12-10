@@ -3,8 +3,8 @@ function showTab(tabId) {
             tab.classList.remove('active');
         });
         document.getElementById(tabId).classList.add('active');
-    }
-
+}
+         document.addEventListener("DOMContentLoaded", function() {
         // Update license dynamically on form submission
         document.getElementById('licenseForm').addEventListener('submit', function (event) {
             event.preventDefault();
