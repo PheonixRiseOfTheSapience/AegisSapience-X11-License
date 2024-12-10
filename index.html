@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AegisSapience X11 License</title>
-    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-xUb6Q+EOXTZP2inZdBKA0KVTN7rnONKJItUCjQVpe+k=' 'nonce-123456'; style-src 'self' 'nonce-123456'; img-src 'self';">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-kGsYNHbF43G9L8NkCDWihZXpkLklqk9c0sTOkxtdxLI=' 'nonce-123456'; style-src 'self' 'nonce-123456'; img-src 'self';">
     <style nonce="123456">
         body {
             font-family: Arial, sans-serif;
@@ -84,7 +84,7 @@ AegisSapience X11 License
         </div>
     </div>
     
-    <script src="./script.js" integrity="sha256-xUb6Q+EOXTZP2inZdBKA0KVTN7rnONKJItUCjQVpe+k" nonce="123456"></script>
+    <script src="./script.js" integrity="sha256-kGsYNHbF43G9L8NkCDWihZXpkLklqk9c0sTOkxtdxLI=" nonce="123456"></script>
     <script nonce="123456">
         document.getElementById('viewLicenseButton').addEventListener('click', function() {
             showTab('viewLicense');
@@ -107,7 +107,7 @@ AegisSapience X11 License
         const dynamicNonce = generateNonce();
         const metaCSP = document.createElement('meta');
         metaCSP.httpEquiv = "Content-Security-Policy";
-        metaCSP.content = `default-src 'self'; script-src 'self' 'sha256-xUb6Q+EOXTZP2inZdBKA0KVTN7rnONKJItUCjQVpe+k=' 'nonce-${dynamicNonce}'; style-src 'self' 'nonce-${dynamicNonce}'; img-src 'self';`;
+        metaCSP.content = `default-src 'self'; script-src 'self' 'sha256-kGsYNHbF43G9L8NkCDWihZXpkLklqk9c0sTOkxtdxLI=' 'nonce-${dynamicNonce}'; style-src 'self' 'nonce-${dynamicNonce}'; img-src 'self';`;
         document.head.appendChild(metaCSP);
 
         // Apply dynamic nonce to style and script tags
