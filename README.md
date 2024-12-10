@@ -32,7 +32,7 @@ Before creating an alternative license, make sure you thoroughly understand the 
 Below is a template for an alternative license based on the PheonixRiseOfTheSapience X11 License. Replace placeholders with your own information where necessary.
 
 ```txt
-[Alternative License Based on the PheonixRiseOfTheSapience X11 License]
+[Alternative License Based on the AegisSapience X11 License]
 
 Copyright (c) [Year] [Your Name or Entity]
 
