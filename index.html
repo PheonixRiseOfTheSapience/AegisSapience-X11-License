@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PheonixRiseOfTheSapience X11 License</title>
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self'; frame-ancestors 'none';">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+        h1 {
+            text-align: center;
+        }
+        pre {
+            background: #f4f4f4;
+            padding: 20px;
+            border-radius: 5px;
+            overflow-x: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>PheonixRiseOfTheSapience X11 License</h1>
+        <pre id="licenseContent">
+            Loading license content...
+        </pre>
+    </div>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            fetch('LICENSE.txt')
+                .then(response => response.text())
+                .then(text => {
+                    document.getElementById('licenseContent').textContent = text;
+                })
+                .catch(error => {
+                    document.getElementById('licenseContent').textContent = 'Failed to load license content.';
+                    console.error('Error fetching LICENSE.txt:', error);
+                });
+        });
+    </script>
+</body>
+</html>
