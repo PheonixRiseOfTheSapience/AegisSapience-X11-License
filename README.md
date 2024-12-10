@@ -1,5 +1,5 @@
 # PheonixRiseOfTheSapience-X11-License
-This is a custom made License Made By PheonixRiseOfTheSapience Which includes ability to freely use as anyone wishes. While requiring proper credits In a simple SUBLICENSE manner.
+This is a custom made License Made By PheonixRiseOfTheSapience Which includes ability to freely use as anyone wishes. While requiring proper credits In a simple Alternative License manner.
 
 ## Basic Features and Protections
 
