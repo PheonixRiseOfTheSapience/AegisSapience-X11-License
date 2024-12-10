@@ -104,6 +104,7 @@ THE LICENSE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIE
 12.1. Profits derived from commercial and non-commercial uses of this License or its derivatives must be shared equally (50%) with the original creator, [Your Name or Entity].
 12.2. Non-profit organizations using this License or its derivatives must allocate 5% of any profits made to [Your Name or Entity].
 12.3. Additionally, 1% of all profits derived from the use of this License, its derivatives, or associated services must be allocated to GitHub for the usage of Copilot.
+12.4. Additionally Line 12.3 can be opted out by agreeing here: true
 
 Contact Information:
 Email: [Your Email]
