@@ -7,7 +7,6 @@ function showTab(tabId) {
 
 document.addEventListener("DOMContentLoaded", function () {
     // Update license dynamically on form submission
-
     document.getElementById('licenseForm').addEventListener('submit', function (event) {
         event.preventDefault();
         const altName = document.getElementById('altName').value + " License";
@@ -26,12 +25,12 @@ document.addEventListener("DOMContentLoaded", function () {
             ${altName}
             Author: ${ownerName}
 
-            Permission is hereby granted, free of charge, to any person obtaining a copy of this license and associated documentation files (the "License") to use, modify, and distribute this License and associated documentation files (the "Materials") subject to the following conditions:
+            Permission is hereby granted, free of charge, to any person obtaining a copy of this license and associated documentation files (the "License") to use, modify, and distribute this License [...]
 
             ${altName}
             Author: ${authorName}
 
-            Permission is hereby granted, free of charge, to any person obtaining a copy of this license and associated documentation files (the "License") to use, modify, and distribute this License and associated documentation files (the "Materials") subject to the following conditions:
+            Permission is hereby granted, free of charge, to any person obtaining a copy of this license and associated documentation files (the "License") to use, modify, and distribute this License [...]
 
             Definitions
             Licensed Directory: Refers to the folder or directory in which this License is located, including all files, folders, and subdirectories contained within it.
@@ -46,19 +45,19 @@ document.addEventListener("DOMContentLoaded", function () {
             File: Refers to any digital data, including but not limited to text, ASCII characters, numbers, binary data, images, videos, and any other form of digital content stored in any format.
 
             1. Attribution and Licensing Terms
-            1.1. The above copyright notice, identifying ${altName} (${ownerName}) as the copyright holder, and this permission notice shall be included in all copies or substantial portions of the Materials.
-            1.2. Clear and prominent attribution must be given to ${altName} (${ownerName}) in all distributed or published works derived from the Materials. This includes, but is not limited to, visible credit on websites, applications, and documentation.
+            1.1. The above copyright notice, identifying ${altName} (${ownerName}) as the copyright holder, and this permission notice shall be included in all copies or substantial portions of the Ma[...]
+            1.2. Clear and prominent attribution must be given to ${altName} (${ownerName}) in all distributed or published works derived from the Materials. This includes, but is not limited to, visi[...]
             1.3. This License must be included in all derivative works or redistributed versions of the Materials, ensuring the terms remain binding.
 
             2. Ownership of Alternative Licenses
-            2.1. Alternative Licenses created from this License must explicitly state the ownership of the alternative version, identifying the alternative creator(s) or entity/entities as the owner(s).
+            2.1. Alternative Licenses created from this License must explicitly state the ownership of the alternative version, identifying the alternative creator(s) or entity/entities as the owner(s[...]
             2.2. The ${altName} (${ownerName}) retains no ownership, control, or responsibility over any Alternative Licenses.
             2.3. Alternative Licenses must include a clear disclaimer that ${altName} (${ownerName}) is not the owner or legal representative of the Alternative License.
 
             3. Updating and Attribution for Alternative Licenses
             3.1. The alternative creator(s) of the Alternative License must ensure that all relevant contact and attribution information is accurate and properly updated in the License text.
             3.2. Any failure to include accurate attribution, ownership, and contact details may invalidate the legality of the Alternative License.
-            3.3. Attribution to the original AegisSapience X11 License must be preserved, but ownership credit for the alternative version must not imply ownership or endorsement by ${altName} (${ownerName}).
+            3.3. Attribution to the original AegisSapience X11 License must be preserved, but ownership credit for the alternative version must not imply ownership or endorsement by ${altName} (${owne[...]
 
             4. Prohibition on Misrepresentation
             4.1. Alternative Licenses must not misrepresent their relationship to the ${altName} or its author.
@@ -73,7 +72,7 @@ document.addEventListener("DOMContentLoaded", function () {
             6.2. Any violation of these protections invalidates rights under the original AegisSapience X11 License and any Alternative Licenses derived from it.
 
             7. Warranty Disclaimer and Liability Limitation
-            THE LICENSE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+            THE LICENSE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON[...]
 
             8. Jurisdiction and Governing Law
             8.1. This License shall be governed by and construed under the laws of the State of North Carolina, USA.
@@ -91,8 +90,8 @@ document.addEventListener("DOMContentLoaded", function () {
             10.5. Reverse engineering or circumvention of this License via any terms of use, privacy policy, license, websites, or services is strictly prohibited.
             10.6. Websites, services, terms of use, and privacy policies must not be used to circumvent, reverse engineer, or otherwise violate this License.
             10.7. Design patterns included in the materials are protected under this License and must not be used to claim exclusive rights.
-            10.8. Modifying file contents in a way that changes its checksum, including but not limited to adding null characters, will be considered an attempt to circumvent the License and is strictly prohibited.
-            10.9. The use of checksums to verify the contents of a file is not recognized as valid under this License due to the potential for circumvention by modifying file contents with a simple injected null character.
+            10.8. Modifying file contents in a way that changes its checksum, including but not limited to adding null characters, will be considered an attempt to circumvent the License and is strict[...]
+            10.9. The use of checksums to verify the contents of a file is not recognized as valid under this License due to the potential for circumvention by modifying file contents with a simple in[...]
 
             11. Unauthorized Copyrighting, Patenting, or Trademarking
             11.1. No person or entity is allowed to copyright, patent, or trademark this License or any derivative works thereof without explicit written consent from ${altName} (${ownerName}).
@@ -107,12 +106,12 @@ document.addEventListener("DOMContentLoaded", function () {
             12.6. No individual or organization may restrict or prevent the availability of this License for the purpose of profit sharing. Doing so will be considered a violation of this agreement.
 
             13. Audit and Enforcement
-            13.1. ${altName} (${ownerName}) reserves the right to audit repository postings and commercial activities to verify compliance with this License. Non-compliance may result in immediate revocation of License rights and/or legal action.
+            13.1. ${altName} (${ownerName}) reserves the right to audit repository postings and commercial activities to verify compliance with this License. Non-compliance may result in immediate rev[...]
             13.2. Repository maintainers and users found to be in violation of this License will be held liable under intellectual property laws.
 
             14. Binding Agreement and Automatic Ownership Rights
             14.1. This License constitutes a legally binding agreement between ${altName} (${ownerName}) and the Licensee.
-            14.2. Any attempt to file patents, trademarks, or copyrights for the Materials or derivatives without complying with this License will automatically result in the Licensor being granted 100% ownership rights.
+            14.2. Any attempt to file patents, trademarks, or copyrights for the Materials or derivatives without complying with this License will automatically result in the Licensor being granted 10[...]
             14.3. Removal, alteration, or obfuscation of this License from the Licensed Directory constitutes a direct violation of the License.
 
             Effective Date: ${fullDateTime}
@@ -121,4 +120,5 @@ document.addEventListener("DOMContentLoaded", function () {
 
         // Display the generated license
         document.getElementById('generatedLicense').textContent = licenseTemplate;
-    });
+    }); // Closing brace for the event listener
+}); // Closing brace for DOMContentLoaded event listener
