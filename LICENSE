@@ -64,6 +64,7 @@ THE LICENSE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIE
 10.7. Design patterns included in the materials are protected under this License and must not be used to claim exclusive rights.
 10.8. Modifying file contents in a way that changes its checksum, including but not limited to adding null characters, will be considered an attempt to circumvent the License and is strictly prohibited.
 10.9. The use of checksums to verify the contents of a file is not recognized as valid under this License due to the potential for circumvention by modifying file contents with a simple injected null value to change checksums.
+10.10. This License applies to all previous, current, and future commit versions of the Licensed Directory, including any commit versions that may not explicitly contain this License. The protections and terms of this License are retroactively and proactively applied to all commit versions to prevent any legal loopholes.
 
 11. Unauthorized Copyrighting, Patenting, or Trademarking
 11.1. No person or entity is allowed to copyright, patent, or trademark this License or any derivative works thereof without explicit written consent from AegisSapience (Johnathan Edward Brown).
