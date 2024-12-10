@@ -45,8 +45,8 @@
 <body>
     <div class="container">
         <div class="tabs">
-            <button onclick="showTab('viewLicense')">View License</button>
-            <button onclick="showTab('generateLicense')">Generate Your Own License</button>
+            <button id="viewLicenseButton">View License</button>
+            <button id="generateLicenseButton">Generate Your Own License</button>
         </div>
 
         <div id="viewLicense" class="tab active">
@@ -85,5 +85,13 @@ AegisSapience X11 License
     </div>
 
     <script src="./script.js" integrity="sha256-xUb6Q+EOXTZP2inZdBKA0KVTN7rnONKJItUCjQVpe+k="></script>
+    <script>
+        document.getElementById('viewLicenseButton').addEventListener('click', function() {
+            showTab('viewLicense');
+        });
+        document.getElementById('generateLicenseButton').addEventListener('click', function() {
+            showTab('generateLicense');
+        });
+    </script>
 </body>
 </html>
