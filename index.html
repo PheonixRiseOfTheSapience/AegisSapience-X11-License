@@ -4,8 +4,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AegisSapience X11 License</title>
-    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-xUb6Q+EOXTZP2inZdBKA0KVTN7rnONKJItUCjQVpe+k='; style-src 'self' 'nonce-abc123'; img-src 'self';">
-    <style nonce="abc123">
+    <script>
+        // Generate a unique nonce
+        function generateNonce(length = 16) {
+            const charset = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+            let nonce = '';
+            for (let i = 0; i < length; i++) {
+                nonce += charset.charAt(Math.floor(Math.random() * charset.length));
+            }
+            return nonce;
+        }
+
+        // Set the nonce value
+        const nonce = generateNonce();
+        document.write(`<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-xUb6Q+EOXTZP2inZdBKA0KVTN7rnONKJItUCjQVpe+k=' 'nonce-${nonce}'; style-src 'self' 'nonce-${nonce}'; img-src 'self';">`);
+    </script>
+    <style nonce="">
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
@@ -85,12 +99,21 @@ AegisSapience X11 License
     </div>
 
     <script src="./script.js" integrity="sha256-xUb6Q+EOXTZP2inZdBKA0KVTN7rnONKJItUCjQVpe+k="></script>
-    <script>
+    <script nonce="">
         document.getElementById('viewLicenseButton').addEventListener('click', function() {
             showTab('viewLicense');
         });
         document.getElementById('generateLicenseButton').addEventListener('click', function() {
             showTab('generateLicense');
+        });
+    </script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            // Apply nonce to style and script tags
+            document.querySelector('style').setAttribute('nonce', nonce);
+            document.querySelectorAll('script[nonce=""]').forEach(script => {
+                script.setAttribute('nonce', nonce);
+            });
         });
     </script>
 </body>
