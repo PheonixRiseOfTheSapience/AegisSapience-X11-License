@@ -7,6 +7,7 @@ function showTab(tabId) {
 
 document.addEventListener("DOMContentLoaded", function () {
     // Update license dynamically on form submission
+
     document.getElementById('licenseForm').addEventListener('submit', function (event) {
         event.preventDefault();
         const altName = document.getElementById('altName').value + " License";
@@ -121,4 +122,3 @@ document.addEventListener("DOMContentLoaded", function () {
         // Display the generated license
         document.getElementById('generatedLicense').textContent = licenseTemplate;
     });
-});
