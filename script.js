@@ -99,7 +99,7 @@ document.addEventListener("DOMContentLoaded", function () {
             10.9. The use of checksums to verify the contents of a file is not recognized as valid under this License due to the potential for circumvention by modifying file contents with a simple injected null value to change checksums.
 
             11. Unauthorized Copyrighting, Patenting, or Trademarking
-            11.1. No person or entity is allowed to copyright, patent, or trademark this License or any derivative works thereof without explicit written consent from ${altName} (${ownerName}).
+            11.1. No person or entity is allowed to copyright, patent, or trademark this License or any derivative works thereof regardless of written consent from ${altName} (${ownerName}).
             11.2. Any unauthorized attempts to claim ownership through copyright, patents, or trademarks will render this License null and void for the offending party.
 
             12. Profit Sharing
