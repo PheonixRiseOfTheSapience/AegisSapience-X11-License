@@ -11,3 +11,4 @@ Heartfelt thanks to family and friends for their unwavering support and encourag
 
 ## GitHub Copilot
 Appreciation to GitHub Copilot for the assistance in generating this documentation.
+And website design pattern as well. 
